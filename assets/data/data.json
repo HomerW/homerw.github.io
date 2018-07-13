@@ -38,14 +38,14 @@
         "sessions": [{
           "name": "Breakfast",
           "timeStart": "7:45 am",
-          "timeEnd": "9:00 am",
+          "timeEnd": "8:30 am",
           "location": "CNR Foyer",
           "id": "4"
         },
         {
           "name": "Conference Registration",
           "timeStart": "7:45 am",
-          "timeEnd": "9:00 am",
+          "timeEnd": "8:30 am",
           "location": "CNR Foyer",
           "id": "5"
         },
@@ -67,10 +67,6 @@
           "id": "7",
           "isSymposium": true,
           "presentations": [{
-            "title": "Collaborating with children for climate justice: Empowering agency through action",
-            "author": "Carlie Trott"
-          },
-          {
             "title": "Social movements and climate change: Support for top down versus bottom up approaches to social and environmental challenges",
             "author": "Brian Lickel"
           },
@@ -321,10 +317,6 @@
             "author": "Guillermina Jasso"
           },
           {
-            "title": "Philanthropy and fairness",
-            "author": "Faye Crosby"
-          },
-          {
             "title": "Does social mindfulness require deliberate thinking: The influence of processing mode on social mindfulness",
             "author": "Dorothee Mischkowski"
           },
@@ -389,7 +381,19 @@
           "timeEnd": "10:15 am",
           "location": "CNR 1051",
           "id": "25",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Imprisoned justice: Inside two immigrant detention centers in Georgia",
+            "author": "Priyanka Bhatt"
+          },
+          {
+            "title": "Experiences of violence among female West African asylum seekers in Atlanta",
+            "author": "Katie Curtis"
+          },
+          {
+            "title": "Lone immigrant: Conditions of unaccompanied alien children in the state of Georgia",
+            "author": "Roger-Claude Liwanga"
+          }]
         },
         {
           "name": "Session 4.2: Philisophical and Moreal Underpinnings of Justice",
@@ -397,7 +401,23 @@
           "timeEnd": "10:15 am",
           "location": "CNR 1055",
           "id": "26",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Getting trolleys back on track: Process dissociation reveals that utilitarians are not psychopaths and clarifies conceptual confusion",
+            "author": "Paul Conway"
+          },
+          {
+            "title": "Moral disengagement differently predicts unethical omissions and commissions",
+            "author": "Emmanuelle P. Kleinlogel"
+          },
+          {
+            "title": "Peter Singer knows I suffer",
+            "author": "Michael Neil"
+          },
+          {
+            "title": "When buying milk, do you care about the cow?: Validating the focus on Moral Considerations Scale",
+            "author": "Kassidy Velasquez"
+          }]
         },
         {
           "name": "Session 4.3: Percieving Justice in Work Organizations",
@@ -405,7 +425,23 @@
           "timeEnd": "10:15 am",
           "location": "CNR 1034",
           "id": "27",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "The why and the how of managerial explanations",
+            "author": "Ramona Bobocel"
+          },
+          {
+            "title": "Harnessing construal level theory to promote the ethical framing of workplace safety",
+            "author": "Jonathan Keeney"
+          },
+          {
+            "title": "Is it fair to get ahead by playing politics? The ambiguity of the merit of political maneuvering enables self-serving judgments",
+            "author": "Peter Belmi"
+          },
+          {
+            "title": "The nature of work and just earnings",
+            "author": "Atsushi Narisada"
+          }]
         },
         {
           "name": "Session 4.4: Understanding Justice, Responding to Injustice",
@@ -413,7 +449,19 @@
           "timeEnd": "10:15 am",
           "location": "CNR 2001",
           "id": "28",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "The evolution of (un)fairness",
+            "author": "Sarah Brosnan"
+          },
+          {
+            "title": "Stable attitudes toward distributive justice principles? An analysis with panel data",
+            "author": "Sebastian Hülle"
+          },
+          {
+            "title": "New results on the exact connection between inequality and justice",
+            "author": "Guillermina Jasso"
+          }]
         }]
       },
       {
@@ -427,30 +475,74 @@
         }]
       },
       {
-        "time": "10:30",
+        "time": "10:45",
         "sessions": [{
           "name": "Session 5.1: Criminal Justice Attitude Formation & Change",
-          "timeStart": "10:30 am",
-          "timeEnd": "11:45 am",
+          "timeStart": "10:45 am",
+          "timeEnd": "12:00 pm",
           "location": "CNR 1051",
           "id": "30",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "How political messaging shapes public opinion about criminal justice policies",
+            "author": "Toby Bolsen"
+          },
+          {
+            "title": "Facial features and negative stereotyping in criminal decision-making",
+            "author": "Heather Kleider-Offutt"
+          },
+          {
+            "title": "The effects of cost discounting on incarceration decisions",
+            "author": "Eyal Aharoni"
+          },
+          {
+            "title": "Forensic evidence in convictions and post-conviction relief procedures",
+            "author": "Jessica Gabel Cino"
+          }]
         },
         {
           "name": "Session 5.2: Social Justice Engagement as a Dialogical Enterprise",
-          "timeStart": "10:30 am",
-          "timeEnd": "11:45 am",
+          "timeStart": "10:45 am",
+          "timeEnd": "12:00 pm",
           "location": "CNR 1055",
           "id": "31",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Making the world a better place—one professional at a time: the “ethics and engaged professionalism project”",
+            "author": "William Sexson"
+          },
+          {
+            "title": "Using service learning to engage medical students and health care professionals with the social determinants of health",
+            "author": "Maura George"
+          },
+          {
+            "title": "The Urban Health Initiative",
+            "author": "Carolyn Aidman"
+          },
+          {
+            "title": "Hearing over the storm: Community engagement amidst complex humanitarian emergencies",
+            "author": "Laura Martin"
+          }]
         },
         {
           "name": "Session 5.3: Prejudice and Privilege",
-          "timeStart": "10:30 am",
-          "timeEnd": "11:45 am",
+          "timeStart": "10:45 am",
+          "timeEnd": "12:00 pm",
           "location": "CNR 1034",
           "id": "32",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Prejudice as counter-normative attitudes not cognitively biased ones: An analysis of lay attitudes of prejudice",
+            "author": "Michael Platow"
+          },
+          {
+            "title": "Herd invisibility: The psychology of racial privilege",
+            "author": "L. Taylor Phillips"
+          },
+          {
+            "title": "Being Muslim women in the Trump era",
+            "author": "Nuray Karaman"
+          }]
         }]
       },
       {
@@ -464,45 +556,97 @@
         }]
       },
       {
-        "time": "2:00 pm",
+        "time": "2:15 pm",
         "sessions": [{
           "name": "Session 6.1: Third Party Reactions to Justice Responses",
-          "timeStart": "2:00 pm",
-          "timeEnd": "3:15 pm",
+          "timeStart": "2:15 pm",
+          "timeEnd": "3:30 pm",
           "location": "CNR 1051",
           "id": "34",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Onlookers’ reactions to third-party punishing: A comparison of deontological versus consequential motives",
+            "author": "Nathan Dhaliwal"
+          },
+          {
+            "title": "Third-party evaluations of managers who adopt a restorative approach to justice recovery",
+            "author": "Tyler Okimoto"
+          },
+          {
+            "title": "Have mercy! Observer reactions to mercy granted from coworker misconduct",
+            "author": "Marie Mitchell"
+          },
+          {
+            "title": "Third-party perceptions of forgivers: Moral heroes, doormats, and self-righteous martyrs",
+            "author": "Gabrielle Adams"
+          }]
         },
         {
           "name": "Session 6.2: Reproduction of Racialized Risk Environments & Health Disparities",
-          "timeStart": "2:00 pm",
-          "timeEnd": "3:15 pm",
+          "timeStart": "2:15 pm",
+          "timeEnd": "3:30 pm",
           "location": "CNR 1055",
           "id": "35",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "The persistent institutional legacy of slavery and contemporary change in very low birth weight in the U.S. South",
+            "author": "Izraele McKinnon"
+          },
+          {
+            "title": "Neighborhood gentrification and its association with low weight, preterm birth in Atlanta, GA from 1990 to 2010",
+            "author": "Veronica Lee"
+          },
+          {
+            "title": "Community food environments and diet-related health among low-income Black women in Atlanta, GA",
+            "author": "Ilana Raskind"
+          }]
         },
         {
           "name": "Session 6.3: Power, Politics, and Protest",
-          "timeStart": "2:00 pm",
-          "timeEnd": "3:15 pm",
+          "timeStart": "2:15 pm",
+          "timeEnd": "3:30 pm",
           "location": "CNR 1034",
           "id": "36",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Politics in the age of social media: A study of political mobilization in India since 1990s",
+            "author": "Kritica Negi"
+          },
+          {
+            "title": "Why disadvantaged villagers demand less social protection: Decomposition of the urban bias in social policy preferences in China",
+            "author": "Weihua An"
+          },
+          {
+            "title": "Distribution or rebellion: Theoretical foundations of Islamist “social justice”",
+            "author": "Sabri Ciftci"
+          }]
         },
         {
           "name": "Session 6.4: Discrimination: Race, Ethnicity, Gender",
-          "timeStart": "2:00 pm",
-          "timeEnd": "3:15 pm",
+          "timeStart": "2:15 pm",
+          "timeEnd": "3:30 pm",
           "location": "CNR 2001",
           "id": "37",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Privilege in hiring: Why benefiting from discrimination is not seen as discrimination",
+            "author": "L. Taylor Phillips"
+          },
+          {
+            "title": "Adding another tool to the justice toolbox: Theorizing the inclusion of the Everyday Discrimination Scale in justice",
+            "author": "Ryan Gibson"
+          },
+          {
+            "title": "“Faith, culture and injustice:” A critical analysis of primary research findings that reveal the negative outcomes experienced by Muslim families involved in the British Criminal Justice System",
+            "author": "Christine Hough"
+          }]
         }]
       },
       {
-        "time": "3:15",
+        "time": "3:30",
         "sessions": [{
           "name": "Coffee Break",
-          "timeStart": "3:15 pm",
+          "timeStart": "3:30 pm",
           "timeEnd": "3:45 pm",
           "location": "CNR Plaza",
           "id": "38"
@@ -517,7 +661,7 @@
         {
           "name": "ISJR Annual General Meeting",
           "timeStart": "5:00 pm",
-          "timeEnd": "6:45 pm",
+          "timeEnd": "5:45 pm",
           "location": "CNR Auditorium",
           "id": "40"
         }]
@@ -553,7 +697,23 @@
           "timeEnd": "10:15 am",
           "location": "CNR 1051",
           "id": "43",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Social cognitive mechanisms of perceiving remorse",
+            "author": "Friederike Funk"
+          },
+          {
+            "title": "When arbitrators prolong conflicts: Moral role-taking in normative conflicts",
+            "author": "Johannes Schwabe"
+          },
+          {
+            "title": "Distinct social status motives uniquely predict distinct forms of retributive justice",
+            "author": "Liz Redford"
+          },
+          {
+            "title": "Introducing a Justice Motives Inventory: Measuring why victims reintegrate and punish transgressors",
+            "author": "Mylyn Dat"
+          }]
         },
         {
           "name": "Session 7.2: Injustice in Access to Healthcare",
@@ -561,7 +721,19 @@
           "timeEnd": "10:15 am",
           "location": "CNR 1055",
           "id": "44",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Racial disparities in health status and health care: The continuation of inequality in the United States due to structural racism",
+            "author": "Ruqaiijah Yearby"
+          },
+          {
+            "title": "Medical deportation: The expression of economic, social, and political injustice",
+            "author": "Sana Loue"
+          },
+          {
+            "title": "Deservingness and agentic justice enactment in health organizations",
+            "author": "Estelle Archibold"
+          }]
         },
         {
           "name": "Session 7.3: Shaping Victimization Responses",
@@ -569,7 +741,23 @@
           "timeEnd": "10:15 am",
           "location": "CNR 1034",
           "id": "45",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Ethnicity and a “justice deficit” as predictors of victim appetite for restorative justice",
+            "author": "Diana Batchelor"
+          },
+          {
+            "title": "I blame therefore it was: Rape myth acceptance, victim blaming, and memory reconstruction",
+            "author": "Rael Dawtry"
+          },
+          {
+            "title": "Victim sensitivity in complex social interactions: An interactive-process approach",
+            "author": "Zoe Magraw-Mickelson"
+          },
+          {
+            "title": "Inclusive education and disabling environment in India",
+            "author": "Rinki Chokhani"
+          }]
         },
         {
           "name": "Session 7.4: Workplace Gender Disparities",
@@ -577,7 +765,19 @@
           "timeEnd": "10:15 am",
           "location": "CNR 2001",
           "id": "46",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Improving self-efficacy to combat STEM gender bias using a modified Video Intervention for Diversity in STEM (VIDS) intervention",
+            "author": "Erin Hennes"
+          },
+          {
+            "title": "Gender disparities in sponsorship",
+            "author": "Elizabeth Campbell"
+          },
+          {
+            "title": "The effects of lean in messages on perceptions of women’s role in gender inequality",
+            "author": "Jae Yun Kim"
+          }]
         }]
       },
       {
@@ -598,7 +798,19 @@
           "timeEnd": "11:45 am",
           "location": "CNR 1051",
           "id": "48",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "U.S. cities with greater gender equality have more progressive sexual orientation laws and services",
+            "author": "P.J. Henry"
+          },
+          {
+            "title": "Examining trauma disparities among LGBTQ identified, homeless youth with previous child welfare system-involvement through a social justice lens",
+            "author": "Robin Hartinger-Saunders"
+          },
+          {
+            "title": "The palliative effects of system justification on the health and happiness of lesbian, gay, bisexual, and transgender individuals",
+            "author": "Alexandra Suppes"
+          }]
         },
         {
           "name": "Session 8.2: Justice in Legal Contexts",
@@ -606,7 +818,23 @@
           "timeEnd": "11:45 am",
           "location": "CNR 1055",
           "id": "49",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Procedural justice in Polish courts: Criminal and civil courts compared",
+            "author": "Stanislaw Burdziej"
+          },
+          {
+            "title": "A game theoretical perspective on restorative justice",
+            "author": "Tinneke Van Camp"
+          },
+          {
+            "title": "Expressing what? Evaluating the expressive value of punishment",
+            "author": "Jessica Bregant"
+          },
+          {
+            "title": "Studying laypeople’s punishment goals: The neglected role of information salience",
+            "author": "Mathias Twardawski"
+          }]
         },
         {
           "name": "Session 8.3: Fairness Dynamics in Healthcare Settings",
@@ -614,7 +842,19 @@
           "timeEnd": "11:45 am",
           "location": "CNR 1034",
           "id": "50",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Medical resources in decision-making towards low status groups: The role of meritocracy",
+            "author": "Filipa Madeira"
+          },
+          {
+            "title": "'Difficult' patients and life-saving drugs: How status defense myths undermine patient care",
+            "author": "Kristine Chapleau Camp"
+          },
+          {
+            "title": "The Prisoner to Patient Initiative: Addressing re-entry as a public health issue",
+            "author": "Ashley Wennerstrom"
+          }]
         },
         {
           "name": "Session 8.4: Fairness in Earnings",
@@ -622,7 +862,19 @@
           "timeEnd": "11:45 am",
           "location": "CNR 2001",
           "id": "51",
-          "isSymposium": true
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Fairness of earning in Germany and the Netherlands: A multi-level approach to justice",
+            "author": "Carsten Sauer"
+          },
+          {
+            "title": "Justice evaluations of individual earnings and (biased) perceptions of individual rank: How actual and perceived income position influence attitudes toward justice",
+            "author": "Sebastian Hülle"
+          },
+          {
+            "title": "It's not just the average other! How income inequality in the workplace affects employees' assessment of reward justice",
+            "author": "Simone Schneider"
+          }]
         }]
       },
       {
@@ -637,126 +889,6 @@
       }]
     }
   ],
-
-
-  "speakers": [{
-    "name": "Burt Bear",
-    "profilePic": "assets/img/speakers/bear.jpg",
-    "twitter": "ionicframework",
-    "about": "Burt is a Bear.",
-    "location": "Everywhere",
-    "email": "burt@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "1"
-  }, {
-    "name": "Charlie Cheetah",
-    "profilePic": "assets/img/speakers/cheetah.jpg",
-    "twitter": "ionicframework",
-    "about": "Charlie is a Cheetah.",
-    "location": "Everywhere",
-    "email": "charlie@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "2"
-  }, {
-    "name": "Donald Duck",
-    "profilePic": "assets/img/speakers/duck.jpg",
-    "twitter": "ionicframework",
-    "about": "Donald is a Duck.",
-    "location": "Everywhere",
-    "email": "donald@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "3"
-  }, {
-    "name": "Eva Eagle",
-    "profilePic": "assets/img/speakers/eagle.jpg",
-    "twitter": "ionicframework",
-    "about": "Eva is an Eagle.",
-    "location": "Everywhere",
-    "email": "eva@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "4"
-  }, {
-    "name": "Ellie Elephant",
-    "profilePic": "assets/img/speakers/elephant.jpg",
-    "twitter": "ionicframework",
-    "about": "Ellie is an Elephant.",
-    "location": "Everywhere",
-    "email": "ellie@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "5"
-  }, {
-    "name": "Gino Giraffe",
-    "profilePic": "assets/img/speakers/giraffe.jpg",
-    "twitter": "ionicframework",
-    "about": "Gino is a Giraffe.",
-    "location": "Everywhere",
-    "email": "gino@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "6"
-  }, {
-    "name": "Isabella Iguana",
-    "profilePic": "assets/img/speakers/iguana.jpg",
-    "twitter": "ionicframework",
-    "about": "Isabella is an Iguana.",
-    "location": "Everywhere",
-    "email": "isabella@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "7"
-  }, {
-    "name": "Karl Kitten",
-    "profilePic": "assets/img/speakers/kitten.jpg",
-    "twitter": "ionicframework",
-    "about": "Karl is a Kitten.",
-    "location": "Everywhere",
-    "email": "karl@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "8"
-  }, {
-    "name": "Lionel Lion",
-    "profilePic": "assets/img/speakers/lion.jpg",
-    "twitter": "ionicframework",
-    "about": "Lionel is a Lion.",
-    "location": "Everywhere",
-    "email": "lionel@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "9"
-  }, {
-    "name": "Molly Mouse",
-    "profilePic": "assets/img/speakers/mouse.jpg",
-    "twitter": "ionicframework",
-    "about": "Molly is a Mouse.",
-    "location": "Everywhere",
-    "email": "molly@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "10"
-  }, {
-    "name": "Paul Puppy",
-    "profilePic": "assets/img/speakers/puppy.jpg",
-    "twitter": "ionicframework",
-    "about": "Paul is a Puppy.",
-    "location": "Everywhere",
-    "email": "paul@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "11"
-  }, {
-    "name": "Rachel Rabbit",
-    "profilePic": "assets/img/speakers/rabbit.jpg",
-    "twitter": "ionicframework",
-    "about": "Rachel is a Rabbit.",
-    "location": "Everywhere",
-    "email": "rachel@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "12"
-  }, {
-    "name": "Ted Turtle",
-    "profilePic": "assets/img/speakers/turtle.jpg",
-    "twitter": "ionicframework",
-    "about": "Ted is a Turtle.",
-    "location": "Everywhere",
-    "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "13"
-  }],
 
   "map": [{
     "name": "Emory Conference Center",
