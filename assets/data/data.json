@@ -152,7 +152,7 @@
       {
         "time": "10:15 am",
         "sessions": [{
-          "name": "Coffee Break",
+          "name": "Break",
           "timeStart": "10:15 am",
           "timeEnd": "10:30 am",
           "location": "CNR Plaza",
@@ -331,7 +331,7 @@
       {
         "time": "3:30 pm",
         "sessions": [{
-          "name": "Coffee Break",
+          "name": "Break",
           "timeStart": "3:30 pm",
           "timeEnd": "3:45 pm",
           "location": "CNR Plaza",
@@ -471,7 +471,7 @@
       {
         "time": "10:15 am",
         "sessions": [{
-          "name": "Coffee Break",
+          "name": "Break",
           "timeStart": "10:15 am",
           "timeEnd": "10:30 am",
           "location": "CNR Plaza",
@@ -650,7 +650,7 @@
       {
         "time": "3:30",
         "sessions": [{
-          "name": "Coffee Break",
+          "name": "Snack Break",
           "timeStart": "3:30 pm",
           "timeEnd": "3:45 pm",
           "location": "CNR Plaza",
@@ -790,7 +790,7 @@
       {
         "time": "10:15 am",
         "sessions": [{
-          "name": "Coffee Break",
+          "name": "Break",
           "timeStart": "10:15 am",
           "timeEnd": "10:30 am",
           "location": "CNR Plaza",
