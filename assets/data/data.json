@@ -27,7 +27,8 @@
           "timeStart": "5:30 pm",
           "timeEnd": "7:30 pm",
           "location": "Emory Conference Center Hotel",
-          "id": "3"
+          "id": "3",
+          "description": "The reception will take place in the Silver Bell Pavilion."
         }]
       }]
     },
@@ -236,7 +237,8 @@
           "timeStart": "12:00 pm",
           "timeEnd": "2:00 pm",
           "location": "Emory Conference Center",
-          "id": "15"
+          "id": "15",
+          "description": "Morton Deutsch Best Paper Awards (2016 & 2017), Early Career Award, Life Time Achievement Award"
         }]
       },
       {
@@ -340,7 +342,8 @@
           "timeStart": "3:45pm",
           "timeEnd": "5:00 pm",
           "location": "CNR Auditorium",
-          "id": "21"
+          "id": "21",
+          "description": "Embodying Injustice: Understanding the Role of Racism in Health"
         },
         {
           "name": "Poster Session and Reception",
@@ -357,7 +360,8 @@
           "timeStart": "7:30 pm",
           "timeEnd": "10:00 pm",
           "location": "Emory Conference Center",
-          "id": "23"
+          "id": "23",
+          "description": "Shuttles depart from Emory Conference Center Hotel; return from PCM at 10:00 p.m."
         }]
       }]
     },
@@ -548,11 +552,12 @@
       {
         "time": "12:00 pm",
         "sessions": [{
-          "name": "Lunch and Keynote Conversation, Dr. Benjamin Lafayette",
+          "name": "Lunch and Keynote Conversation, Dr. Bernard Lafayette",
           "timeStart": "12:30 pm",
           "timeEnd": "2:00 pm",
           "location": "Emory Conference Center",
-          "id": "33"
+          "id": "33",
+          "description": "A Conversation with a Civil Rights Leader and Original Freedom Rider"
         }]
       },
       {
@@ -656,7 +661,8 @@
           "timeStart": "3:45 pm",
           "timeEnd": "5:00 pm",
           "location": "CNR Auditorium",
-          "id": "39"
+          "id": "39",
+          "description": "CUES of Conspiracy Theories and the Relevance of Social Justice Research"
         },
         {
           "name": "ISJR Annual General Meeting",
@@ -673,7 +679,8 @@
           "timeStart": "7:00 pm",
           "timeEnd": "9:30 pm",
           "location": "Carter Center",
-          "id": "41"
+          "id": "41",
+          "description": "Shuttles depart for ticket holders from the Emory Conference Center."
         }]
       }]
     },
