@@ -152,7 +152,7 @@
       {
         "time": "10:15 am",
         "sessions": [{
-          "name": "Break",
+          "name": "Coffee Break",
           "timeStart": "10:15 am",
           "timeEnd": "10:30 am",
           "location": "CNR Plaza",
@@ -331,7 +331,7 @@
       {
         "time": "3:30 pm",
         "sessions": [{
-          "name": "Break",
+          "name": "Snack Break",
           "timeStart": "3:30 pm",
           "timeEnd": "3:45 pm",
           "location": "CNR Plaza",
@@ -350,7 +350,64 @@
           "timeStart": "5:00 pm",
           "timeEnd": "6:00 pm",
           "location": "CNR Bridge",
-          "id": "22"
+          "id": "22",
+          "isSymposium": true,
+          "presentations": [{
+            "title": "Mental health disparities: Addressing the issue from a cultural competency lens",
+            "author": "Caroline Brackette"
+          },
+          {
+            "title": "How minority leaders facilitate and dismantle gentrification in Birmingham, Alabama",
+            "author": "Cayla Bush"
+          },
+          {
+            "title": "Motivation and performance impact from the perspective of the volunteer: A study of short-term volunteer medical service workers in the Philippines",
+            "author": "Phobe Del Boccio"
+          },
+          {
+            "title": "'Some people have all the luck:' Examining envy and subjective injustice beliefs",
+            "author": "Manuel Gonzalez"
+          },
+          {
+            "title": "Giftedness as a matter of justice? Teachers&#39; beliefs about gifted students and the role of their belief in a just world",
+            "author": "Svenja Matheis"
+          },
+          {
+            "title": "Evaluations of rape victims that choose not to seek justice against their perpetrators",
+            "author": "Eyad Naseralla"
+          },
+          {
+            "title": "Job insecurity perceptions and individual health: The cross-level interaction by income inequality within the country, an indicator of distributive injustice",
+            "author": "Beatrice Piccoli"
+          },
+          {
+            "title": "Religiosity both increases and decreases deontological and utilitarian inclinations: A process dissociation analysis",
+            "author": "Caleb Reynolds"
+          },
+          {
+            "title": "An item response theory analysis of the Connor-Davidson Resilience Scale",
+            "author": "Karen Shebuski"
+          },
+          {
+            "title": "The stability of belief in a just world when experiencing injustice: Effects of procedural justice",
+            "author": "Kotryna Stupnianek"
+          },
+          {
+            "title": "Do people with strong beliefs in a just world give less bribes?",
+            "author": "Kotryna Stupnianek"
+          },
+          {
+            "title": "Using an intersectionality framework to examine the impact of identities and experiences of discrimination on mental health and substance use outcomes",
+            "author": "Milkie Vu"
+          },
+          {
+            "title": "A scoping review of community organizing strategies for environmental justice",
+            "author": "Dana Williamson"
+          },
+          {
+            "title": "Justice sensitivity and subjective well-being: The role of social value orientation",
+            "author": "Chan Zhou"
+          }]
         }]
       },
       {
@@ -471,7 +528,7 @@
       {
         "time": "10:15 am",
         "sessions": [{
-          "name": "Break",
+          "name": "Coffee Break",
           "timeStart": "10:15 am",
           "timeEnd": "10:30 am",
           "location": "CNR Plaza",
@@ -790,7 +847,7 @@
       {
         "time": "10:15 am",
         "sessions": [{
-          "name": "Break",
+          "name": "Coffee Break",
           "timeStart": "10:15 am",
           "timeEnd": "10:30 am",
           "location": "CNR Plaza",
