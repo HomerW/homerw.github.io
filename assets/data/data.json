@@ -249,6 +249,7 @@
           "timeEnd": "3:30 pm",
           "location": "CNR 1051",
           "id": "16",
+          "isSymposium": true,
           "presentations": [{
             "title": "Just practice: Church members speak on the role of their black church in addressing the mental health needs of its members",
             "author": "Rosalyn Denise Campbell"
@@ -369,7 +370,7 @@
             "author": "Manuel Gonzalez"
           },
           {
-            "title": "Giftedness as a matter of justice? Teachers&#39; beliefs about gifted students and the role of their belief in a just world",
+            "title": "Giftedness as a matter of justice? Teachers' beliefs about gifted students and the role of their belief in a just world",
             "author": "Svenja Matheis"
           },
           {
