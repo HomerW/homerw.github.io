@@ -39,6 +39,10 @@ a {
   position: relative;
 }
 
+#deanna-link:hover:before {
+  visibility: hidden;
+}
+
 a:before {
   content: "";
   position: absolute;
