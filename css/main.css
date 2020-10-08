@@ -3,7 +3,7 @@ html, body {
   font-family: 'Josefin Sans', sans-serif;
   margin: 0;
   height: 100%;
-  font-size: 1.5vmax;
+  font-size: 1.20vmax;
 }
 
 body {
@@ -21,11 +21,19 @@ body {
 
 #content {
   display: none;
+  width: 70%
+}
+
+#content h3 {
+  line-height: 165%
 }
 
 h1 {
   font-weight: normal;
-  font-size: 5vmax;
+  font-size: 4vmax;
+  margin-top: 0;
+  margin-bottom: 3%;
+  margin-left: -3px
 }
 
 h3 {
