@@ -1,0 +1,42 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 12pt;
+    font-variant-ligatures: no-common-ligatures;
+}
+
+.content-container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: #3880BA
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#profile-and-name {
+    display: flex;
+    margin-bottom: 50px
+}
+
+#profile {
+    flex: 0.65;
+    /* display: flex;
+    justify-content: center; */
+}
+
+#profile>img {
+    width: 300px
+}
+
+#name {
+    flex: 1
+}
+
+.paper-title {
+    font-size: 14pt
+}
