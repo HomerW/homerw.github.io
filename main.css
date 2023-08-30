@@ -20,17 +20,24 @@ a:hover {
 
 #profile-and-name {
     display: flex;
-    margin-bottom: 50px
+    margin-bottom: 50px;
+    flex-direction: column
+}
+
+@media (min-width:800px) {
+    #profile-and-name {
+        flex-direction: row;  
+    }
 }
 
 #profile {
+    display: flex;
     flex: 0.65;
-    /* display: flex;
-    justify-content: center; */
+    justify-content: center;
 }
 
 #profile>img {
-    width: 300px
+    width: 250px
 }
 
 #name {
