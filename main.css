@@ -21,6 +21,7 @@ a:hover {
 #profile-and-name {
     display: flex;
     margin-bottom: 50px;
+    margin-top: 40px;
     flex-direction: column
 }
 
